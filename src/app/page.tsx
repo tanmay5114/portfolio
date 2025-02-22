@@ -164,7 +164,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                After my graduation, I joined **Super 30**, a community where passionate developers guided and inspired me. It was eye-opening to see how the right mentorship and dedication could help anyone crack the world of development and build impactful solutions.
+                After my graduation, I joined Super 30, a community where passionate developers guided and inspired me. It was eye-opening to see how the right mentorship and dedication could help anyone crack the world of development and build impactful solutions.
                 </p>
               </div>
             </div>

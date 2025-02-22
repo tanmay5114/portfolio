@@ -63,16 +63,16 @@ export const DATA = {
 
   work: [
     {
-      company: "Lapaas",
-      href: "https://lapaas.com/",
+      company: "100x Devs",
+      href: "https://100xdevs.com/",
       badges: [],
-      location: "Delhi",
-      title: "Full Stack Intern",
-      logoUrl: "/lapaas.png",
-      start: "April 2023",
-      end: "November 2023",
+      location: "Noida, India",
+      title: "Software Engineer",
+      logoUrl: "/100xdevs.jpg",
+      start: "January 2025",
+      end: "Present",
       description:
-        "Understood how startup works, worked on multiple services like News App, Education Site and a platform transforming Small businesses through digital marketing",
+        "Understood how product moves from 0 to 1. Worked on multiple tech stacks. Understood how complex backend architecture is created and implemented. How to scale an application etc.",
     },
     {
       company: "Fluper",
@@ -87,27 +87,19 @@ export const DATA = {
         "Fully into Backend development, Created APIs for several mobile apps. Rolling Cargo, ProCare and Facely is one of them. Understood how complex backend architecture is implemented simply",
     },
     {
-      company: "100x Devs",
-      href: "https://100xdevs.com/",
+      company: "Lapaas",
+      href: "https://lapaas.com/",
       badges: [],
-      location: "Noida, India",
-      title: "Software Engineer",
-      logoUrl: "/100xdevs.jpg",
-      start: "January 2025",
-      end: "Present",
+      location: "Delhi",
+      title: "Full Stack Intern",
+      logoUrl: "/lapaas.png",
+      start: "April 2023",
+      end: "November 2023",
       description:
-        "Understood how product moves from 0 to 1. Worked on multiple tech stacks. Understood how complex backend architecture is created and implemented. How to scale an application etc.",
-    }
+        "Understood how startup works, worked on multiple services like News App, Education Site and a platform transforming Small businesses through digital marketing",
+    },
   ],
   education: [
-    {
-      school: "Vivekanand School",
-      href: "https://vivekanandschool.in/",
-      degree: "Senior Secondary Education",
-      logoUrl: "/vivekanand.png",
-      start: "2010",
-      end: "2021",
-    },
     {
       school: "University of Delhi",
       href: "https://sol.du.ac.in/",
@@ -116,6 +108,14 @@ export const DATA = {
       start: "2021",
       end: "2024",
     },
+  {
+    school: "Vivekanand School",
+    href: "https://vivekanandschool.in/",
+    degree: "Senior Secondary Education",
+    logoUrl: "/vivekanand.png",
+    start: "2010",
+    end: "2021",
+  },
   ],
   projects: [
     {
