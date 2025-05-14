@@ -32,7 +32,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/tanmay4477",
+        url: "https://github.com/tanmay5114",
         icon: Icons.github,
 
         navbar: true,
@@ -62,18 +62,18 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "100x Devs",
-      href: "https://100xdevs.com/",
-      badges: [],
-      location: "Noida, India",
-      title: "Software Engineer",
-      logoUrl: "/100xdevs.jpg",
-      start: "January 2025",
-      end: "Present",
-      description:
-        "Understood how product moves from 0 to 1. Worked on multiple tech stacks. Understood how complex backend architecture is created and implemented. How to scale an application etc.",
-    },
+    // {
+    //   company: "100x Devs",
+    //   href: "https://100xdevs.com/",
+    //   badges: [],
+    //   location: "Noida, India",
+    //   title: "Software Engineer",
+    //   logoUrl: "/100xdevs.jpg",
+    //   start: "January 2025",
+    //   end: "Present",
+    //   description:
+    //     "Understood how product moves from 0 to 1. Worked on multiple tech stacks. Understood how complex backend architecture is created and implemented. How to scale an application etc.",
+    // },
     {
       company: "Fluper",
       badges: [],
@@ -82,7 +82,7 @@ export const DATA = {
       title: "Backend Developer",
       logoUrl: "/fluper_logo.png",
       start: "August 2024",
-      end: "January 2025",
+      end: "October 2024",
       description:
         "Fully into Backend development, Created APIs for several mobile apps. Rolling Cargo, ProCare and Facely is one of them. Understood how complex backend architecture is implemented simply",
     },
@@ -120,7 +120,7 @@ export const DATA = {
   projects: [
     {
       title: "Opinion Trading Platform",
-      href: "https://github.com/Tanmay4477/typeProbo1",
+      href: "https://github.com/tanmay5114/typeProbo1",
       dates: "Oct 2024 -  Nov 2025",
       active: true,
       description:
@@ -137,7 +137,7 @@ export const DATA = {
       links: [
         {
           type: "Code",
-          href: "https://github.com/tanmay4477",
+          href: "https://github.com/tanmay5114",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -147,7 +147,7 @@ export const DATA = {
     },
     {
       title: "Metaverse App",
-      href: "https://github.com/Tanmay4477/metaverse",
+      href: "https://github.com/tanmay5114/metaverse",
       dates: "Nov 2024 - Dec 2024",
       active: true,
       description:
@@ -164,7 +164,7 @@ export const DATA = {
       links: [
         {
           type: "Code",
-          href: "https://github.com/Tanmay4477",
+          href: "https://github.com/tanmay5114",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -173,7 +173,7 @@ export const DATA = {
     },
     {
       title: "Interview GPT Wraper",
-      href: "https://github.com/Tanmay4477/gpt_wraper",
+      href: "https://github.com/tanmay5114/gpt_wraper",
       dates: "Dec 2024 - Dec 2024",
       active: true,
       description:
@@ -190,7 +190,7 @@ export const DATA = {
       links: [
         {
           type: "Code",
-          href: "https://github.com/tanmay4477/",
+          href: "https://github.com/tanmay5114/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
