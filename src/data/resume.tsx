@@ -10,7 +10,9 @@ export const DATA = {
   description:
     "Full Stack dev interested in building products and solving business problems through tech.",
   summary:
-    "Passionate 2024 graduate who dove into tech after realizing it was the key to solving real-world problems. Started by building a product, interned at a startup to learn how things scale, and now pursuing tech full-time—driven to contribute to the community and create impactful solutions. ",
+    `Passionate 2024 graduate who dove into tech after realizing it was the key to solving real-world problems. 
+    Started by building a product, interned at a startup to learn how things scale, 
+    and now pursuing tech full-time—driven to contribute to the community and create impactful solutions.`,
   avatarUrl: "/tanmayjain.jpeg",
   skills: [
     "Typescript",
@@ -21,7 +23,8 @@ export const DATA = {
     "Next.js",
     "Postgres",
     "Docker",
-    "AWS"
+    "AWS",
+    "React Native"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -51,6 +54,13 @@ export const DATA = {
 
         navbar: true,
       },
+      whatsapp: {
+        name: "Whatsapp",
+        url: "https://wa.me/+917065339197",
+        icons: Icons.whatsapp,
+
+        navbar: true
+      },
       email: {
         name: "Send Email",
         url: "#",
@@ -62,18 +72,18 @@ export const DATA = {
   },
 
   work: [
-    // {
-    //   company: "100x Devs",
-    //   href: "https://100xdevs.com/",
-    //   badges: [],
-    //   location: "Noida, India",
-    //   title: "Software Engineer",
-    //   logoUrl: "/100xdevs.jpg",
-    //   start: "January 2025",
-    //   end: "Present",
-    //   description:
-    //     "Understood how product moves from 0 to 1. Worked on multiple tech stacks. Understood how complex backend architecture is created and implemented. How to scale an application etc.",
-    // },
+    {
+      company: "Engaze",
+      href: "https://engaze.in/",
+      badges: [],
+      location: "Mumbai, India",
+      title: "Software Developer",
+      logoUrl: "/engaze.jpeg",
+      start: "May 2025",
+      end: "Present",
+      description:
+        "Understood how product moves from 0 to 1. Worked on multiple tech stacks. Understood how complex backend architecture is created and implemented. How to scale an application etc.",
+    },
     {
       company: "Fluper",
       badges: [],
