@@ -50,7 +50,7 @@ export default function Navbar() {
                       "size-12"
                     )}
                   >
-                    <social.icon className="size-4" />
+                    <div className="size-4" />
                   </Link>
                 </TooltipTrigger>
                 <TooltipContent>
